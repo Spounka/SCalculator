@@ -2,6 +2,8 @@
 // Created by spounka on 10/5/20.
 //
 
+// Last visit: 10/27/2020
+
 #ifndef SCALCULATOR_CONFIG_HPP_
 #define SCALCULATOR_CONFIG_HPP_
 

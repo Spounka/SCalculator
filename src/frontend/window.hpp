@@ -2,6 +2,8 @@
 // Created by spounka on 17/10/2020.
 //
 
+// Last visit: 10/27/2020
+
 #ifndef SCALCULATOR_WINDOW_HPP
 #define SCALCULATOR_WINDOW_HPP
 

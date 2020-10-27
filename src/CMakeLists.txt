@@ -8,5 +8,5 @@ set(PROJECT_LIB
 )
 
 add_library(SCalculatorLib SHARED ${PROJECT_LIB})
-set_target_properties(SCalculatorLib PROPERTIES OUTPUT_NAME libSCalculator.so)
+set_target_properties(SCalculatorLib PROPERTIES OUTPUT_NAME SCalculator)
 target_link_libraries(SCalculatorLib PUBLIC ${GTKMM_LIBRARIES})
