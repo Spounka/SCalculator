@@ -1,0 +1,5 @@
+project(SCalculator_app)
+
+add_executable(SCalculator main.cpp)
+set_target_properties(SCalculator PROPERTIES OUTPUT_NAME scalculator)
+target_link_libraries(SCalculator SCalculatorLib)
