@@ -20,3 +20,7 @@ include_directories(src)
 
 add_subdirectory(src)
 add_subdirectory(app)
+
+install(TARGETS SCalculator DESTINATION "bin/")
+install(DIRECTORY "scalculator" DESTINATION "share/")
+install(TARGETS SCalculatorLib DESTINATION "lib/")
