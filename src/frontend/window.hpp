@@ -17,7 +17,7 @@
 #include <gtkmm/aboutdialog.h>
 #include <gtkmm/messagedialog.h>
 
-#include "config.hpp"
+#include <config.hpp>
 
 namespace spounka
 {

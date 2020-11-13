@@ -7,7 +7,7 @@
 #ifndef SCALCULATOR_CONFIG_HPP_
 #define SCALCULATOR_CONFIG_HPP_
 
-#include "frontend/window.hpp"
+#include <frontend/window.hpp>
 
 namespace spounka
 {
